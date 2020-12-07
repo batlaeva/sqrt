@@ -1,2 +1,2 @@
 # sqrt
-sqrt-assembler
+Вычисление sqrt на assembler.NASM?
